@@ -1,129 +1,79 @@
 
 <div align="center">
 
-# Hey, I'm Maxim 👋
-
-### Python Developer · SQL Engineer · Backend Enthusiast
-
-*Building reliable backend systems, automating workflows, and turning complex data into elegant solutions.*
-
-<img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="400" alt="Coding Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&height=65&lines=Hey%2C+I'm+Maxim.;Python+%26+SQL+Developer;Backend+%7C+APIs+%7C+Automation" alt="Animated Header"/>
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Backend](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=serverfault&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-009688?style=for-the-badge&logo=robotframework&logoColor=white)
+<strong>BUILDING SYSTEMS. AUTOMATING PROCESSES. SOLVING PROBLEMS.</strong>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PYTHON-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/BACKEND-0D1117?style=for-the-badge&logo=fastapi&logoColor=00D9FF"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### `> whoami`
 
-I'm a **Python & SQL Developer** focused on building efficient, scalable, and maintainable software.
+I'm a **Python & SQL Developer** specializing in backend engineering, database management, and process automation.
 
-I specialize in backend development, database engineering, API integrations, and workflow automation — creating practical solutions that simplify complex processes.
+I design and build reliable software solutions — from efficient database architectures and REST APIs to automation tools and intelligent Telegram bots.
 
-- 🐍 Developing backend applications and services with **Python**
-- 🗄️ Designing databases and optimizing **SQL queries**
-- 🚀 Building RESTful APIs with **FastAPI, Django & Flask**
-- 🤖 Creating **Telegram bots** and automation tools
-- 🔗 Integrating third-party services and external APIs
-- ⚡ Improving performance, reliability, and maintainability
+My focus is simple: **clean architecture, optimized performance, and code that solves real problems.**
 
-> **My approach:** Clean code. Smart automation. Reliable solutions.
+### `> areas_of_expertise`
+
+- **Backend Engineering** — Building maintainable services and RESTful APIs.
+- **Database Development** — Designing schemas, optimizing queries, and managing data.
+- **Automation** — Eliminating repetitive tasks with efficient Python solutions.
+- **Telegram Bots** — Developing interactive bots and service integrations.
+- **API Integration** — Connecting systems and enabling seamless data exchange.
 
 ---
 
-## 🛠️ Tech Stack
+### `> tech_stack`
 
 <div align="center">
 
-### Languages & Databases
+**LANGUAGES & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite&theme=dark" alt="Languages and Databases"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,sqlite&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-### Backend & Frameworks
+**FRAMEWORKS**
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,flask&theme=dark" alt="Backend Frameworks"/>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-### Tools & Technologies
+**DEVELOPMENT TOOLS**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,docker,linux,postman&theme=dark"/>
 
-<br/>
+<br/><br/>
 
-### Additional Technologies
+**MICROSOFT SQL SERVER**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="44" alt="MS SQL Server"/>
 
 </div>
 
 ---
 
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Backend Development
-Designing and developing reliable server-side applications, REST APIs, and scalable backend architectures.
-
-**Stack:** Python, FastAPI, Django, Flask
-
-</td>
-<td width="50%" valign="top">
-
-### 🗄️ Database Engineering
-Designing relational databases, optimizing SQL queries, and building efficient data management solutions.
-
-**Stack:** PostgreSQL, MySQL, MS SQL, SQLite
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Bots & Automation
-Building Telegram bots, automation scripts, and tools that eliminate repetitive tasks.
-
-**Stack:** Python, Telegram Bot API
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 API Development & Integration
-Connecting platforms and services through REST APIs, enabling seamless data exchange and integrations.
-
-**Stack:** FastAPI, REST, JSON, HTTP
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
+### `> github_activity`
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrmaximbelov&theme=github_dark" width="95%" alt="GitHub Profile Details"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrmaximbelov&theme=github_dark" width="95%" alt="GitHub Activity"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrmaximbelov&theme=github_dark" width="46%" alt="Top Languages"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrmaximbelov&theme=github_dark" width="46%" alt="GitHub Stats"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmaximbelov&theme=github-dark-blue&hide_border=true" width="65%" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrmaximbelov&theme=github_dark" width="48%" alt="GitHub Statistics"/>
 
 </div>
 
@@ -131,12 +81,16 @@ Connecting platforms and services through REST APIs, enabling seamless data exch
 
 <div align="center">
 
-### 💡 Code. Automate. Optimize. Repeat.
+<code>while (alive) { learn(); build(); improve(); }</code>
 
-*Always learning. Always building.*
+<br/><br/>
+
+**KEEP BUILDING. KEEP EVOLVING.**
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mrmaximbelov&style=flat-square&color=0e75b6)
+<a href="https://github.com/mrmaximbelov">
+<img src="https://img.shields.io/badge/GITHUB-MRMAXIMBELOV-00D9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </div>
